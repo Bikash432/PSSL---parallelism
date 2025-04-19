@@ -1,4 +1,4 @@
-n this research, I have extended the Per Segment Plane Sweep Line Segment Intersection
+In this research, I have extended the Per Segment Plane Sweep Line Segment Intersection
 algorithm to determine the intersection of the line segments using the parallelization
 provided by the GPUs. As we know, spatial join operations are fundamental in determining
 relationships between various geographical objects and line segments in large-scale spatial
